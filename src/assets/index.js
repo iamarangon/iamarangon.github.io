@@ -1,0 +1,7 @@
+export {default as whatsappIcon} from './whatsapp-icon.svg'
+export {default as facebookIcon} from './facebook-icon.svg'
+export {default as githubIcon} from './github-icon.svg'
+export {default as linkedinIcon} from './linkedin-icon.svg'
+export {default as instagramIcon} from './instagram-icon.svg'
+export {default as viteLogo} from './vite-logo.svg'
+export {default as reactLogo} from './react-logo.svg'
